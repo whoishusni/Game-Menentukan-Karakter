@@ -46,6 +46,11 @@ public class Setting : MonoBehaviour
         Screen.SetResolution(resolution.width, resolution.height, Screen.fullScreen);
     }
 
+    public void setVolume(float volume)
+    {
+
+    }
+
     // Update is called once per frame
     void Update()
     {
