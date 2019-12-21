@@ -63,7 +63,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\DestroyPoint.cs" />
+    <Compile Include="Assets\Scripts\GameOver.cs" />
+    <Compile Include="Assets\Scripts\Gerak.cs" />
+    <Compile Include="Assets\Scripts\Loading.cs" />
+    <Compile Include="Assets\Scripts\Pilah.cs" />
     <Compile Include="Assets\Scripts\Scene.cs" />
+    <Compile Include="Assets\Scripts\ScoreData.cs" />
+    <Compile Include="Assets\Scripts\Setting.cs" />
+    <Compile Include="Assets\Scripts\StartPoint.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/DICODING GAME/Game Menentukan Karakter/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
